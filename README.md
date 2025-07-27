@@ -85,6 +85,7 @@ Work done on Friday
 
 git rebase -i HEAD~5
 ```
+**Interactive rebase was performed in order to combine all daily commits into one weekly commit:**
 
 <img width="634" height="151" alt="image" src="https://github.com/user-attachments/assets/c926a285-f948-4de0-9760-4b62282f8c0e" />
 
